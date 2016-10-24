@@ -1,0 +1,10 @@
+/*--/Users/MLS/Documents/airbig/apps/www/views/welcome.html--*/ 
+     var est = require(config.path.lib + 'est/est.js'); 
+     var _extFn = require('/Users/MLS/Documents/airbig/nest/server/lib/est/extFn.js'); 
+     function requireFn(tpl) { return est.renderFile('/Users/MLS/Documents/airbig/apps/www/views/' ,tpl , null , null ,'www' ,true); } ; 
+     function __getHtml (_data) { 
+       function jsRender(tpl , id) { return est.jsRender(requireFn(tpl)(_data), id  ); } ; 
+       var __htm ='';
+__htm += 'welcome.html\n';
+return __htm;} 
+ exports.html = __getHtml; 

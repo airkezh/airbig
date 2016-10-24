@@ -1,0 +1,27 @@
+{
+  "name": "airbig",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node nest/server/index.js"
+  },
+  "devDependencies": {
+    "jsx-loader": "^0.12.2",
+    "css-loader": "^0.15.0",
+    "style-loader": "^0.12.4",
+    "react-hot-loader": "^1.1.1",
+    "webpack": "^1.5.1",
+    "webpack-dev-server": "1.6.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airkezh/airbig.git"
+  },
+  "author": "zhengke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/airkezh/airbig/issues"
+  },
+  "homepage": "https://github.com/airkezh/airbig#readme"
+}

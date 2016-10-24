@@ -1,0 +1,6 @@
+{
+	"mysql" : "/home/work/conf/mysql/front.mysql.ini"	
+	,"mongo" : "mongodb://127.0.0.1:27017/"
+	,"mysqlbase" : "front"
+}
+

@@ -1,0 +1,13 @@
+{
+	"hosts": {
+		"fex": "apis.fex.lehe.com",
+		"web": "content.service.lehe.com",
+		"account": "account.service.lehe.com",
+		"search": "search.lehe.com",
+		"im": "im.lehe.com",
+		"kf": "lab.kfadmin.lehe.com",
+		"v": "v.lehe.com"
+	},
+	"debug": true,
+	"timeout": 5000
+}

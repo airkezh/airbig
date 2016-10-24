@@ -1,0 +1,13 @@
+{
+	"uploadTmp": false,
+	"watchingTpl": true,
+	"fussTpl": false,
+	"hostID": "0.0.0.0",
+	"token": "abcd",
+	"hostDefault": {
+		"m": "welcome",
+		"www": "welcome"
+	},
+	"cpuNums": "1",
+	"onPort": 6004
+}
